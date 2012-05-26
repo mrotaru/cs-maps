@@ -1,0 +1,5 @@
+A scrit written a few years ago, which can be used to install Counter Strike maps.
+The script should be placed in the `cstrike` folder.
+
+A map can be installed like this:  
+`python cs-maps.py i D:\download\csmap.zip`
